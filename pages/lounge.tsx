@@ -9,8 +9,8 @@ import { useRouter } from "next/router";
 
 // Polygon only
 const MEMBERSHIP_NFT_CONTRACT_ADDRESS =
-  "0x4465aE876e5263cB4Eaf42948723E28bB30C65E8";
-const MEMBERSHIP_NFT_TOKEN_ID_REQ = "0";
+  "0x81869ee98bdc0c921335C69e5C515F049B2A2daf";
+const MEMBERSHIP_NFT_TOKEN_ID_REQ = "1";
 const MEMBERSHIP_NFT_TOKEN_COUNT_REQ = 1;
 
 const Home: NextPage = ({
